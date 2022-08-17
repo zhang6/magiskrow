@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "20.3",
-    "versionCode": "20300",
+    "version": "25.2",
+    "versionCode": "25200",
     "link": "https://raw.kgithub.com/topjohnwu/magisk-files/25.2/app-release.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/25200.md"
   },
   "stub": {
-    "versionCode": "20",
+    "versionCode": "33",
     "link": "https://raw.kgithub.com/topjohnwu/magisk-files/25.2/stub-release.apk"
   }
 }
