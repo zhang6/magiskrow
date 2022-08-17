@@ -2,11 +2,11 @@
   "magisk": {
     "version": "20.3",
     "versionCode": "20300",
-    "link": "https://raw.kgithub.com/topjohnwu/magisk-files/20.3/app-release.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/20300.md"
+    "link": "https://ghdl.feizhuqwq.cf/https://github.com/topjohnwu/Magisk/releases/download/manager-v7.5.1/MagiskManager-v7.5.1.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/25200.md"
   },
   "stub": {
     "versionCode": "33",
-    "link": "https://raw.kgithub.com/topjohnwu/magisk-files/20.3/stub-release.apk"
+    "link": "https://ghdl.feizhuqwq.cf/https://github.com/topjohnwu/Magisk/releases/download/manager-v7.5.1/stub-release.apk"
   }
 }
